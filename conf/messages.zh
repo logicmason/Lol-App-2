@@ -1,1 +1,5 @@
-application.name = 货品目录
+application.name = 产品目录
+name = 品名
+description = 产品说明
+
+products.details = 产品: {0}
