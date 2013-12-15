@@ -3,3 +3,13 @@ name = 品名
 description = 产品说明
 
 products.details = 产品: {0}
+
+products.details = 产品: {0}
+products.form = 产品细节
+products.new = (新)
+products.new.command = 新
+products.new.submit = 加
+products.new.success = 加了一个产品 {0}.
+
+validation.errors = 请更正表格中的错误
+validation.ean.duplicate = 具有此EAN号码的产品已存在
